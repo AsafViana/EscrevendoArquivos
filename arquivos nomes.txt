@@ -1,0 +1,11 @@
+/home/runner/EscrevendoArquivos\poetry.lock
+ /home/runner/EscrevendoArquivos\pyproject.toml
+ /home/runner/EscrevendoArquivos\.replit
+ /home/runner/EscrevendoArquivos\replit.nix
+ /home/runner/EscrevendoArquivos\arquivos nomes.txt
+ /home/runner/EscrevendoArquivos\main.py
+ /home/runner/EscrevendoArquivos/.cache/replit/nix\env.json
+ /home/runner/EscrevendoArquivos/.config/pip\pip.conf
+ /home/runner/EscrevendoArquivos/.config/pypoetry\config.toml
+ /home/runner/EscrevendoArquivos/.upm\store.json
+ 
