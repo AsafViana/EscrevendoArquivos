@@ -12,5 +12,5 @@ with open('arquivos nomes.txt', 'a') as txt:
       for arquivo in arquivos:
         if '/' in diretorio:
           livros = diretorio + '\\' + arquivo
-          txt.write(livros+'\n')
+          txt.write(arquivo+'\n')
           print(livros)
